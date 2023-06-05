@@ -15,13 +15,13 @@
      limitations under the License.
 -->
 <resources>
-    <color name="background_gradient_start">#000000</color>
-    <color name="background_gradient_end">#DDDDDD</color>
-    <color name="fastlane_background">#0000CD</color>
-    <color name="search_opaque">#FF4500</color>
-    <color name="selected_background">#FF4500</color>
+    <color name="background_gradient_start">#252F33</color>
+    <color name="background_gradient_end">#FFFFFF</color>
+    <color name="fastlane_background">#022894</color>
+    <color name="search_opaque">#FF5200</color>
+    <color name="selected_background">#FF5200</color>
 
-    <color name="default_background">#0000CD</color>
+    <color name="default_background">#022894</color>
     <color name="icon_background">#4A4F51</color>
     <color name="icon_alt_background">#2A2F51</color>
 </resources>
