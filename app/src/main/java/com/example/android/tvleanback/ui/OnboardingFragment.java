@@ -68,7 +68,7 @@ public class OnboardingFragment extends OnboardingSupportFragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         // Set the logo to display a splash animation
-        setLogoResourceId(R.drawable.videos_by_google_banner);
+        setLogoResourceId(R.drawable.android_header);
         return super.onCreateView(inflater, container, savedInstanceState);
     }
 

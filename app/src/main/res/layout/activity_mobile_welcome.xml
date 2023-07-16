@@ -10,7 +10,7 @@
     tools:context="com.example.android.tvleanback.mobile.MobileWelcomeActivity">
     <TextView
         android:layout_width="match_parent"
-        android:text="@string/mobile_welcome_title"
+        android:text="@string/welcome_to_leanback_hima_upb"
         android:textSize="28sp"
         android:gravity="center_horizontal"
         android:id="@+id/title"

@@ -38,17 +38,17 @@
 
     <application
         android:allowBackup="false"
-        android:banner="@drawable/videos_by_google_banner"
-        android:icon="@drawable/app_icon_quantum"
+        android:banner="@drawable/android_header"
+        android:icon="@drawable/android_header"
         android:label="@string/app_name"
-        android:logo="@drawable/videos_by_google_banner"
+        android:logo="@drawable/android_header"
         android:theme="@style/Theme.Leanback"
         tools:ignore="GoogleAppIndexingWarning">
         <activity
             android:name=".ui.MainActivity"
-            android:icon="@drawable/videos_by_google_banner"
+            android:icon="@drawable/android_header"
             android:label="@string/app_name"
-            android:logo="@drawable/videos_by_google_banner"
+            android:logo="@drawable/android_header"
             android:screenOrientation="landscape"
             android:theme="@style/Theme.Leanback.Browse">
             <intent-filter>

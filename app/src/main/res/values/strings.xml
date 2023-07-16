@@ -26,17 +26,17 @@
     <string name="grid_view">Vertical Grid View</string>
     <string name="error_fragment">Error Fragment</string>
     <string name="personal_settings">Personal Settings</string>
-    <string name="watch_trailer_1">VIDEO KEGIATAN</string>
-    <string name="watch_trailer_2">BERGABUNGLAH BERSAMA KAMI</string>
-    <string name="rent_1">Universitas</string>
-    <string name="rent_2">Pelita Bangsa</string>
-    <string name="buy_1">Himpunan Mahasiswa</string>
-    <string name="buy_2">UPB</string>
+    <string name="watch_trailer_1">VIDEO</string>
+    <string name="watch_trailer_2">KEGIATAN HIMA</string>
+    <string name="rent_1">HIMPUNAN</string>
+    <string name="rent_2">MAHASISWA</string>
+    <string name="buy_1">UNIVERSITAS</string>
+    <string name="buy_2">PELITA BANGSA</string>
     <string name="queue_name">Play Queue</string>
 
     <string name="search_results">Search results for \'%1$s\'</string>
     <string name="no_search_results">No search results found for \'%1$s\'</string>
-    <string name="catalog_url">https://res.cloudinary.com/ddp24miph/raw/upload/v1686062920/json/new3.json</string>
+    <string name="catalog_url">https://res.cloudinary.com/ddp24miph/raw/upload/v1689511252/json/new4_favn9b.json</string>
 
     <!-- Error messages -->
 
@@ -122,4 +122,5 @@
     <string name="pref_key_login">pref_login</string>
     <string name="pref_title_login">Login</string>
     <string name="playback_tag">PLAYBACK_TAG</string>
+    <string name="welcome_to_leanback_hima_upb">WELCOME TO LEANBACK HIMA UPB</string>
 </resources>

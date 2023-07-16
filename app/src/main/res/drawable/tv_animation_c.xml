@@ -75,10 +75,10 @@
     <item android:drawable="@drawable/tv_c_00168" android:duration="50" />
     <item android:drawable="@drawable/tv_c_00171" android:duration="50" />
     <item android:drawable="@drawable/tv_c_00174" android:duration="500" />
-    <item android:drawable="@drawable/tv_c_00225" android:duration="50" />
-    <item android:drawable="@drawable/tv_c_00228" android:duration="50" />
-    <item android:drawable="@drawable/tv_c_00231" android:duration="50" />
-    <item android:drawable="@drawable/tv_c_00234" android:duration="50" />
-    <item android:drawable="@drawable/tv_c_00237" android:duration="50" />
+    <item android:drawable="@drawable/tv_c_00175" android:duration="50" />
+    <item android:drawable="@drawable/tv_c_00176" android:duration="50" />
+    <item android:drawable="@drawable/tv_c_00176" android:duration="50" />
+    <item android:drawable="@drawable/tv_c_00177" android:duration="50" />
+    <item android:drawable="@drawable/tv_c_00178" android:duration="50" />
     <item android:drawable="@drawable/tv_c_00000" android:duration="500" />
 </animation-list>
